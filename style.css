@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: LightSteelBlue;
+}
+header img {
+    background-color: LightSteelBlue;
+    padding: 8px;
+    border-radius: 100px;
+    height: 50px
+}
+header a {
+    color: MidnightBlue;
+    text-decoration: none;
+    font-family: sans-serrif;
+    font-size: 25px;
+}
+header b {
+    color: Blue;
+}
+main {
+    background-color:LightSteelBlue;
+    font-size: 20px;
+}
+main h1{
+    text-align: center;
+    color: Indigo;
+    font-family: fantasy;
+}
+footer {
+    background-color: LightSteelBlue;
+    color: darkblue;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;  
+}
+nav a {
+    color: DarkSlateBlue;
+    text-decoration: none;
+    border: 3px solid navy;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 3px;
+    font-size: 15px;
+}
+main img {
+    text-align: center;
+}
+.oo {
+    border: 3px solid indigo;
+    border-radius: 20px;
+    padding: 10px
+}
+main h2 {
+    color: MidnightBlue;
+    text-align: center;
+    text-decoration: underline;
+    font-family: monospace;
+    font-size: 30px;
+}
+main p {
+    color: darkblue;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tnt {
+    color: DarkCyan;
+    font-size: 25px;
+    text-align: center;
+}
